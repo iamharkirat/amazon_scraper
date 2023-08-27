@@ -1,0 +1,4 @@
+app_name: "amazon_bot"
+
+file_paths:
+  path_params: '/amazon/data/utility/path_params.csv'
